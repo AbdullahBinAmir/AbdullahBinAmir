@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdullahBinAmir
-- 👀 I’m interested in Full Stack Application Development using React js and React Native.
-- 🌱 I’m currently learning ...
+- 👀 I’m working in Full Stack Application Development using React js and React Native.
+- 🌱 I’m currently doing job
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at rajaabdullah678901@gmail.com
 
 <!---
 AbdullahBinAmir/AbdullahBinAmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
