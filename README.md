@@ -1,4 +1,4 @@
-## Happ seeing you here! <img src="https://raw.githubusercontent.com/AbdullahBinAmir/AbdullahBinAmir/master/wave.gif" width="30">
+## Happy to see you here! <img src="https://raw.githubusercontent.com/AbdullahBinAmir/AbdullahBinAmir/master/wave.gif" width="30">
 
 My name is Abdullah Bin Amir, a full stack developer with experience of working mobile and web appliocations using MERN stack. I want to contribute more in open source projects by helping people in the community. Feel free to connect with me here:
 
