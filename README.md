@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AbdullahBinAmir
-- 👀 I’m working in Full Stack Application Development using React js and React Native.
-- 🌱 I’m currently doing job
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at rajaabdullah678901@gmail.com
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/AbdullahBinAmir/AbdullahBinAmir/master/wave.gif" width="30">
+
+My name is Abdullah Bin Amir, a full stack developer with experience of working mobile and web appliocations using MERN stack. I want to contribute more in open source projects by helping people in the community. Feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-AbdullahBinAmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-bin-amir-085182197/)](https://www.linkedin.com/in/abdullah-bin-amir-085182197/)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 <!---
 AbdullahBinAmir/AbdullahBinAmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
