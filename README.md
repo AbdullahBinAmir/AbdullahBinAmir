@@ -30,6 +30,12 @@ My name is Abdullah Bin Amir, a full stack developer with experience of working 
 
 <br/>
 
+<a> 
+    <a href="https://github.com/AbdullahBinAmir"><img alt="Abdullah Bu=in Amir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AbdullahBinAmir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AbdullahBinAmir"><img alt="AbdullahBinAmir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdullahBinAmir&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 <!---
 AbdullahBinAmir/AbdullahBinAmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
