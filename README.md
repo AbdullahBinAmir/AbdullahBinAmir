@@ -24,6 +24,7 @@ My name is Abdullah Bin Amir, a full stack developer with experience of working 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&labelColor=232F3E&logo=amazon-aws&logoColor=FF9900)
 
 <br/>
 
