@@ -7,7 +7,7 @@ My name is Abdullah Bin Amir, a full stack developer with experience of working 
 [![Medium Badge](https://img.shields.io/badge/-@Abdullah-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com//)](https://medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-rajaabdullah678901@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaabdullah678901@gmail.com)](mailto:rajaabdullah678901@gmail.com)
 
-## ⚡ Tech Stacks
+## ⚡ Tech Stack
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
