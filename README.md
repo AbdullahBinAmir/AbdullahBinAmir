@@ -1,6 +1,6 @@
 ## Happy to see you here! <img src="https://raw.githubusercontent.com/AbdullahBinAmir/AbdullahBinAmir/master/wave.gif" width="30">
 
-My name is Abdullah Bin Amir, a full stack developer with experience of working mobile and web appliocations using MERN stack. I want to contribute more in open source projects by helping people in the community. Feel free to connect with me here:
+My name is Abdullah Bin Amir, full stack js developer with experience in mobile and web app development. I want to contribute more in open source projects by helping people in the community. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbdullahBinAmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-bin-amir-085182197/)](https://www.linkedin.com/in/abdullah-bin-amir-085182197/)
 [![Youtube Badge](https://img.shields.io/badge/-AbdullahBinAmir-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/)](https://www.youtube.com/c/)
