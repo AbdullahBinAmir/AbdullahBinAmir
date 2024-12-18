@@ -4,7 +4,7 @@ My name is Abdullah Bin Amir, typescript developer with experience in mobile and
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbdullahBinAmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-bin-amir-085182197/)](https://www.linkedin.com/in/abdullah-bin-amir-085182197/)
 [![Youtube Badge](https://img.shields.io/badge/-AbdullahBinAmir-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/)](https://www.youtube.com/c/)
-[![Medium Badge](https://img.shields.io/badge/-@Abdullah-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com//)]([https://medium.com/](https://medium.com/@binamir.tech))
+[![Medium Badge](https://img.shields.io/badge/-@Abdullah-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@binamir.tech)](https://medium.com/@binamir.tech)
 [![Gmail Badge](https://img.shields.io/badge/-rajaabdullah678901@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaabdullah678901@gmail.com)](mailto:rajaabdullah678901@gmail.com)
 
 ## ⚡ Tech Stack
